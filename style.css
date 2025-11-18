@@ -4,3 +4,13 @@ card{
 style{
     margin-bottom: 0%;
 }
+
+h2 {
+    color: blue;
+    border-radius: 25px;
+    size: 55px;
+}
+our collection{
+    background-color: blueviolet;
+    border-radius: 25px;
+}
